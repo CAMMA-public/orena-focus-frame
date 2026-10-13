@@ -155,8 +155,9 @@ the challenge's L40S deployment environment and are tightly coupled to vLLM
 
 ## Weights
 
-The fine-tuned mixed FP8/BF16 checkpoint will be released separately through
-Hugging Face. Model weights are not stored in this Git repository.
+The fine-tuned mixed FP8/BF16 checkpoint is available on Hugging Face:
+
+[CAMMA Qwen3.8-27B FOCUS FRAME FP8](https://huggingface.co/lalithnag/CAMMA-Qwen3.8-27B-FOCUS-FRAME-FP8)
 
 The model is licensed in the same terms as the Qwen3.8 model.
 
