@@ -1,0 +1,8 @@
+# Install a CUDA-compatible PyTorch build separately.
+ms-swift==4.4.2
+transformers==5.12.1
+peft==0.19.1
+qwen-vl-utils==0.0.14
+packaging
+safetensors
+

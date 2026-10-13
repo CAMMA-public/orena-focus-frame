@@ -1,0 +1,1 @@
+# Runtime dependencies are supplied by vllm/vllm-openai:v0.21.0.

@@ -1,0 +1,25 @@
+# Model weights and generated checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+adapter_model.*
+checkpoint-*/
+resources/model/*
+!resources/model/.gitkeep
+!resources/model/README.md
+
+# Container archives and local test data
+*.tar
+*.tar.gz
+*.sha256
+submission/test/input/
+submission/test/output/
+
+# Python/editor output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
